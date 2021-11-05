@@ -1,2 +1,2 @@
-# LGMVIP-DataScience
+# DataScience
 Project done by Pratiksha Singh.
